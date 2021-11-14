@@ -17,3 +17,9 @@ Lab 4 - Openshift Springboot & Jaeger: https://github.com/tal2k4xj/microservices
 Lab 5 - Openshift DevOps: https://github.com/vladsancira/nodejs-tekton
 
 Lab 6 - Networking: https://github.com/IBM/kubernetes-networking
+
+Lab 7 - Istio: https://redhat-scholars.github.io/istio-tutorial/istio-tutorial/1.6.x/index.html
+
+## More links
+
+Post installation configuration: https://docs.openshift.com/container-platform/4.6/post_installation_configuration/index.html
