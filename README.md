@@ -23,3 +23,7 @@ Lab 7 - Istio: https://redhat-scholars.github.io/istio-tutorial/istio-tutorial/1
 ## More links
 
 Post installation configuration: https://docs.openshift.com/container-platform/4.6/post_installation_configuration/index.html
+
+Kubernetes controllers: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+
+Kubernetes probes: https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/
