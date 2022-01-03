@@ -1,6 +1,6 @@
 ## Day 1
 
-Register to IBM Cloud: https://ibm.biz/Bdf85L
+Register to IBM Cloud: https://ibm.biz/BdfC8j
 
 Lab 1 - Docker: https://github.com/tal2k4xj/docker-springboot
 
@@ -17,8 +17,6 @@ Lab 4 - Openshift Springboot & Jaeger: https://github.com/tal2k4xj/microservices
 Lab 5 - Openshift DevOps: https://github.com/vladsancira/nodejs-tekton
 
 Lab 6 - Networking: https://github.com/IBM/kubernetes-networking
-
-Lab 7 - Istio: https://redhat-scholars.github.io/istio-tutorial/istio-tutorial/1.6.x/index.html
 
 ## More links
 
