@@ -1,6 +1,4 @@
-## Day 1
-
-Register to IBM Cloud: https://ibm.biz/BdfC8j
+Register to IBM Cloud: https://ibm.biz/Bdfkbe
 
 Lab 1 - Docker: https://github.com/tal2k4xj/docker-springboot
 
@@ -8,20 +6,14 @@ Docker playground: https://labs.play-with-docker.com/
 
 Lab 2 - Kubernetes: https://ibm.github.io/kube101/
 
-Lab 3 - Openshift: https://developer.ibm.com/openlabs/openshift
+Kubernetes on IBM Cloud: https://cloud.ibm.com/kubernetes/catalog/create
 
-## Day 2
+Lab 3 - Configmaps: https://github.com/tal2k4xj/configmap-workshop
 
-Lab 4 - Openshift Springboot & Jaeger: https://github.com/tal2k4xj/microservices-java/
+Lab 4 - Probes: https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/
 
-Lab 5 - Openshift DevOps: https://github.com/vladsancira/nodejs-tekton
+Lab 5 - Workloads: https://kubernetes.io/docs/concepts/workloads/controllers/ 
 
-Lab 6 - Networking: https://github.com/IBM/kubernetes-networking
+Lab 6 - Networking: https://developer.ibm.com/articles/kubernetes-networking-what-you-need-to-know/
 
-## More links
-
-Post installation configuration: https://docs.openshift.com/container-platform/4.6/post_installation_configuration/index.html
-
-Kubernetes controllers: https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
-
-Kubernetes probes: https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/
+Learning Path: Kubernetes: https://developer.ibm.com/series/kubernetes-learning-path/
